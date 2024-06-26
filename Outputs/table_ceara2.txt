@@ -1,0 +1,14 @@
+		(1)
+VARIABLES	LABELS	Suspected V
+		
+militar	militar	0.207***
+		(0.0759)
+militar_treat	militar_treat	-0.0819
+		(0.118)
+Constant	Constant	0.428***
+		(0.0141)
+		
+Observations		21,886
+R-squared		0.046
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
