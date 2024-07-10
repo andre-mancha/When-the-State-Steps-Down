@@ -6,9 +6,9 @@
 * Setting Working Directories
 clear all
 
-global data "G:\Meu Drive\PhD\Tese - Capítulo 1\Replication Package\Bases"
+global data "YOUR WORKING DIRECTORY\Bases"
 
-global outputs "G:\Meu Drive\PhD\Tese - Capítulo 1\Replication Package\Outputs"
+global outputs "YOUR WORKING DIRECTORY\Outputs"
 
 
 * Install packages and scheme for plots
